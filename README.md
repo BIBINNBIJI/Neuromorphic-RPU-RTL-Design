@@ -26,11 +26,10 @@ This RPU processes sensor input through spiking neurons, updates synaptic weight
 ## 📦 Directory Structure
 
 ├── rtl/             # All RTL design files
-├── tb/              # SystemVerilog testbenches
-├── doc/             # Architecture or block diagrams
-├── README.md
+|── tb/              # SystemVerilog testbenches 
+├── doc/             # Architecture or block diagrams 
+├── README.md 
 └── .gitignore
-
 
 🔮 Future Work
 Add support for multiple neuron/synapse pairs
